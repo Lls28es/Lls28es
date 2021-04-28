@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 🌟 Front-End
     HTML5 - CSS3 - JavaScript (ES6)  - React  - Redux - BootStrap - SASS - LESS - BEM 
 </h5>
-<br/>
 <h5>
 🌟 Back-End
     Node - Express - Sequelize ORM - PostgreSQL - Firebase - GraphQL

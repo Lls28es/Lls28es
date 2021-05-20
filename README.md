@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 <br/>
 
  <h4>📫 How to reach me: </h4>
--[Linkedin](https://www.linkedin.com/in/luc%C3%ADa-llorca-5612921b5/)
+-[Linkedin](https://www.linkedin.com/in/lucia-llorca/)
 <br/>
 
-
+<br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="accessibility text">
   &nbsp;

@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 <h4><img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="accessibility text"> currently studying at Henry 🚀📖</h4>
 <br/>
 
- <h4>📫 How to reach me: </h4>
--[Linkedin](https://www.linkedin.com/in/lucia-llorca/)
+ <h4>📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin<a/></h4>
+
 <br/>
 
 <br/>

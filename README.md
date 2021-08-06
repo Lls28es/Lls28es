@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 
 <h4>CURRENT KNOWLEDGE ✔</h4>
-<h5>
- JavaScript (ES6)  React  Redux  Node.js  WebAPI's  Express  PostgreSQL  BootStrap  SASS  LESS  HTML5  GitHub  Firebase
+<h4>
+| JavaScript (ES6) | React | Redux | Node.js | WebAPI's | Express | PostgreSQL | BootStrap | SASS | LESS | HTML5 | GitHub | Firebase
     
- Metodologías AGILE  SCRUM 
+ | Agile methodologies | SCRUM 
 
-</h5>
+</h4>
 
 <h4>&nbsp;  . . .</h4>
 

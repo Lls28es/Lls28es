@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 
 
-<h4>CURRENT KNOWLEDGE ✔</h4>
+<h3>CURRENT KNOWLEDGE ✔</h3>
+
 <h4>
-| JavaScript (ES6) | React | Redux | Node.js | WebAPI's | Express | PostgreSQL | BootStrap | SASS | LESS | HTML5 | GitHub | Firebase
-    <br/>
- | Agile methodologies | SCRUM 
+| JavaScript (ES6) | React | Redux | Node.js | WebAPI's | Express | PostgreSQL | BootStrap | SASS | LESS | HTML5 | GitHub | Firebase | Agile methodologies | SCRUM 
 
 </h4>
 

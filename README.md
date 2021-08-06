@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 <h2 align="center">FULL STACK DEVELOPER 💻</h2>
 
+
+
 <h4>CURRENT KNOWLEDGE ✔</h4>
 <h5>
-🌟 Front-End
-    HTML5 - CSS3 - JavaScript (ES6)  - React  - Redux - BootStrap - SASS - LESS - BEM 
-</h5>
-<h5>
-🌟 Back-End
-    Node - Express - Sequelize ORM - PostgreSQL - Firebase - GraphQL
+ JavaScript (ES6)  React  Redux  Node.js  WebAPI's  Express  PostgreSQL  BootStrap  SASS  LESS  HTML5  GitHub  Firebase
+    
+ Metodologías AGILE  SCRUM 
+
 </h5>
 
 <h4>&nbsp;  . . .</h4>

@@ -1,5 +1,84 @@
 
 
+### Hi there 👋
+<h3>I'm Lucia Llorca. This is my profile:</h3>
+
+<h2 align="center">FULL STACK DEVELOPER 💻</h2>
+
+
+<h3>CURRENT KNOWLEDGE ✔</h3>
+
+
+<h4 align="center" >$${\color{lightgreen} Web \space API's, \space Agile \space methodologies, \space SCRUM }$$ </h4>
+<br/>
+<p align="center">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="55" alt="node">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/js.png" height="60" alt="javascript">
+   &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/typescript.png" height="60" alt="typescript">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/react.png" height="60" alt="react">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/redux.png" height="55" alt="redux">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/angular1.png" height="55" alt="angular">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nextjs1.png" height="50" alt="nextjs">
+  &nbsp;
+ </p>
+ <p align="center">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/express3.png" height="60" alt="expressjs">
+   &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/firebase.png" height="60" alt="firebase">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/postgreSQL.png" height="65" alt="postgreSQL">
+   &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mongoDB2.png" height="75" alt="mongoDB">
+</p>
+<p align="center">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/html.png" height="65" alt="html">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/css.png" height="65" alt="css">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bootstrap.png" height="60" alt="bootstrap">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/sass.png" height="65" alt="sass">
+</p>
+<p align="center">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/git4.png" height="70" alt="git">
+   &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku.png" height="60" alt="heroku">
+</p>
+<p align="center">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack4.png" height="35" alt="slack">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello4.png" height="40" alt="trello">
+</p>
+<h5>
+<br/>
+| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs |
+<br/>
+| ExpressJs | Firebase | PostgreSQL | MongoDB |
+<br/>
+| HTML | CSS | BootStrap | SASS |
+<br/>
+| Git | Heroku |
+  <br/>
+| Slack | Trello | 
+</h5>
+
+<h4>&nbsp;  . . .</h4>
+
+<h4>I GO FOR MORE ! 📚</h4>
+<br/>
+
+<h4><img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="accessibility text"> currently studying at Henry 🚀📖</h4>
+<br/>
+
+ <h4>📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin<a/></h4>
+
+
 <!--
 **Lls28es/Lls28es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,76 +106,6 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/69209369/116449049-22c27d00-a830-11eb-86f8-649703272c4f.png)
 
 -->
-### Hi there 👋
-<h3>I'm Lucia Llorca. This is my profile:</h3>
-
-<h2 align="center">FULL STACK DEVELOPER 💻</h2>
-
-
-<h3>CURRENT KNOWLEDGE ✔</h3>
-
-<br/>
-<h4 align="center" >$${\color{lightgreen} Web \space API's, \space Agile \space methodologies, \space SCRUM }$$ </h4>
-<br/>
-<p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="55" alt="node">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/js.png" height="60" alt="javascript">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/typescript.png" height="60" alt="typescript">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/react.png" height="60" alt="react">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/redux.png" height="55" alt="redux">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/angular1.png" height="55" alt="angular">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nextjs1.png" height="50" alt="nextjs">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/express3.png" height="60" alt="expressjs">
- </p>
-<p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/css.png" height="65" alt="css">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/html.png" height="65" alt="html">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/sass.png" height="65" alt="sass">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bootstrap.png" height="60" alt="bootstrap">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/firebase.png" height="60" alt="firebase">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/postgreSQL.png" height="65" alt="postgreSQL">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mongoDB2.png" height="75" alt="mongoDB">
-</p>
-<p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/git4.png" height="70" alt="git">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku.png" height="60" alt="heroku">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack5.png" height="60" alt="slack">
-  &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello.png" height="75" alt="trello">
-</p>
-<h5>
-| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs | ExpressJs |
-<br/>
-| SASS | BootStrap | Firebase | PostgreSQL | MongoDB |
-<br/>
-| Git | Heroku | Slack | Trello | 
-</h5>
-
-<h4>&nbsp;  . . .</h4>
-
-<h4>I GO FOR MORE ! 📚</h4>
-<br/>
-
-<h4><img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="accessibility text"> currently studying at Henry 🚀📖</h4>
-<br/>
-
- <h4>📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin<a/></h4>
-
 
 <!--    <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="accessibility text">
   <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="accessibility text">

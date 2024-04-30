@@ -3,12 +3,12 @@
 ### Hi there 👋
 <h3>I'm Lucia Llorca. This is my profile:</h3>
 <br/>
-<h2 align="center"> $\large{\color{white}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>
+<h2 align="center"> $\large{\color{#079E98}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>
 <br/>
-<p align="center">$\large{\color{#8EEC8E}\textsf{CURRENT KNOWLEDGE }}$ ✔</p>
+<p align="center">$\large{\color{#6FA85D}\textbf{CURRENT KNOWLEDGE}}$ $\huge{\color{#5ABC72}\textsf{✓ }}$ <p>
 
 <br/>
-<p align="center">$\normalsize{\color{#D29922}\textsf{Web API's, Agile methodologies, SCRUM,}}$</p>
+<p align="center">$\normalsize{\color{#D2B423}\textsf{Web API's, Agile methodologies, SCRUM,}}$</p>
 <br/>
 <p align="center">
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="53" alt="node">
@@ -54,27 +54,39 @@
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello4.png" height="40" alt="trello">
 </p>
+
 <h5>
-<br/>
-| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs |
-<br/>
-| ExpressJs | Firebase | PostgreSQL | MongoDB |
-<br/>
-| HTML | CSS | BootStrap | SASS |
-<br/>
-| Git | Heroku |
-  <br/>
-| Slack | Trello | 
+ <br/>
+ $\large{\color{#527BD5}\textsf{| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs | }}$
+ <br/>
+ $\large{\color{#5E85D9}\textsf{| ExpressJs | Firebase | PostgreSQL | MongoDB | }}$
+ <br/>
+ $\large{\color{#6E92DD}\textsf{| HTML | CSS | BootStrap | SASS | }}$
+ <br/>
+ $\large{\color{#819FE1}\textsf{| Git | Heroku | }}$
+ <br/>
+ $\large{\color{#9FB7E7}\textsf{| Slack | Trello | }}$
+ <br/>
+ $\large{\color{#rgb(254,255,254)}\textsf{ . . . }}$
+ <br/>  
+ <br/>
+ I GO FOR MORE ! 🚀📚
 </h5>
 
-<h4>&nbsp;  . . .</h4>
 
-<h4>I GO FOR MORE ! 📚</h4>
 <br/>
-<h4><img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="accessibility text"> currently studying at Henry 🚀📖</h4>
+<h4>
+🎓 I studied at Henry.   <a href="https://www.soyhenry.com/" >Henry <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="30" alt="accessibility text"> </a>
 <br/>
- <h4>📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin<a/></h4>
-
+💼 I worked as a freelancer and in web design companies.
+<br/>
+📖 I'm currently studying. 
+<br/>
+🧠 My professional goal is to learn more and perfect what I have learned.</h4>
+<br/>
+ <h4>📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin</a></h4>
+   
+<!--
 ```diff
 - text in red
 + text in green
@@ -85,7 +97,6 @@
 *texto*
 **texto**
 @@text in purple (and bold)@@
-<!--
 **Lls28es/Lls28es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -110,7 +121,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/69209369/116448988-150cf780-a830-11eb-8cb7-7cf85ba56b69.png)
 ![image](https://user-images.githubusercontent.com/69209369/116449008-19391500-a830-11eb-832b-cb45d8ba1243.png)
 ![image](https://user-images.githubusercontent.com/69209369/116449049-22c27d00-a830-11eb-86f8-649703272c4f.png)
-
+&nbsp;
 -->
 
 <!--    <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="accessibility text">

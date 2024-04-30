@@ -47,7 +47,9 @@
 <p align="center">
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/git3.png" height="73" alt="git">
    &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku1.png" height="60" alt="heroku">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bitbucket.png" height="55" alt="bitbucket">
+   &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku1.png" height="55" alt="heroku">
 </p>
 <p align="center">
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack4.png" height="35" alt="slack">
@@ -63,7 +65,7 @@
  <br/>
  $\large{\color{#6E92DD}\textsf{| HTML | CSS | BootStrap | SASS | }}$
  <br/>
- $\large{\color{#819FE1}\textsf{| Git | Heroku | }}$
+ $\large{\color{#819FE1}\textsf{| Git | bitbucket | Heroku | }}$
  <br/>
  $\large{\color{#9FB7E7}\textsf{| Slack | Trello | }}$
  <br/>

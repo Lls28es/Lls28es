@@ -78,12 +78,12 @@
 <h4>
  🎓 I studied at 
  <a href="https://www.soyhenry.com" >Henry 
-  <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="Henry"> 
+  <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="40" alt="Henry"> 
  </a>
    <br/>
  💼 I worked as a freelancer and in web design companies, one of them was 
  <a href="https://slashstudio.cl" >Slash 
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="40" alt="SlashStudio"> 
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="50" alt="SlashStudio"> 
  </a>
    <br/>
    <br/>
@@ -123,7 +123,7 @@
  🧠 My professional goal is to learn more and perfect what I have learned.
    <br/>
    <br/>
- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" ><img src="https://github.com/Lls28es/Lls28es/blob/main/img/linkedin3.png" width="80" alt="linkedin1"> </a>
+ 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" ><img src="https://github.com/Lls28es/Lls28es/blob/main/img/linkedin3.png" width="85" alt="linkedin1"> </a>
 <h4>
    
 <!--

@@ -95,11 +95,11 @@
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://digital-art-frontt.vercel.app/" target="_blank" >DigitalArt *inactivo</a> 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
- ✽ <a href="#" target="_blank" >VerdeNatural *inactivo</a>
+ ✽ <a href="#" target="_blank" >VerdeNatural</a> *inactive
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
- ✽ <a href="#" target="_blank" >Adetech *inactivo</a> 
+ ✽ <a href="#" target="_blank" >Adetech</a>  *inactive
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
- ✽ <a href="#" target="_blank" >Being Brothers Brokers *inactivo</a> 
+ ✽ <a href="#" target="_blank" >Being Brothers Brokers</a>  *inactive
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://sandamaso.cl" target="_blank" >Sandamaso</a> 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;

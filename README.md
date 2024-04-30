@@ -93,7 +93,7 @@
  🌐 These are some of the websites that I have created together or as a freelancer:
    <br/>
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
- ✽ <a href="https://digital-art-frontt.vercel.app/" target="_blank" >DigitalArt *inactivo</a> 
+ ✽ <a href="https://digital-art-frontt.vercel.app/" target="_blank" >DigitalArt</a>
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="#" target="_blank" >VerdeNatural</a> *inactive
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;

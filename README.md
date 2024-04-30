@@ -65,7 +65,7 @@
    <br/>
  $\large{\color{#6E92DD}\textsf{| HTML | CSS | BootStrap | SASS | }}$
    <br/>
- $\large{\color{#819FE1}\textsf{| Git | bitbucket | Heroku | }}$
+ $\large{\color{#819FE1}\textsf{| Git | Bitbucket | Heroku | }}$
    <br/>
  $\large{\color{#9FB7E7}\textsf{| Slack | Trello | }}$
     <br/>

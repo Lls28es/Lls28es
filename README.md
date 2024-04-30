@@ -2,14 +2,14 @@
 <!-- https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db#font-styles -->
 ### Hi there 👋
 <h3>I'm Lucia Llorca. This is my profile:</h3>
-<br/>
+  <br/>
 <h2 align="center"> $\large{\color{#079E98}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>
-<br/>
+  <br/>
 <p align="center">$\large{\color{#6FA85D}\textbf{CURRENT KNOWLEDGE}}$ $\huge{\color{#5ABC72}\textsf{✓ }}$ <p>
 
-<br/>
+  <br/>
 <p align="center">$\normalsize{\color{#D2B423}\textsf{Web API's, Agile methodologies, SCRUM,}}$</p>
-<br/>
+  <br/>
 <p align="center">
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="53" alt="node">
   &nbsp;
@@ -58,36 +58,70 @@
 </p>
 
 <h5>
- <br/>
+   <br/>
  $\large{\color{#527BD5}\textsf{| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs | }}$
- <br/>
+   <br/>
  $\large{\color{#5E85D9}\textsf{| ExpressJs | Firebase | PostgreSQL | MongoDB | }}$
- <br/>
+   <br/>
  $\large{\color{#6E92DD}\textsf{| HTML | CSS | BootStrap | SASS | }}$
- <br/>
+   <br/>
  $\large{\color{#819FE1}\textsf{| Git | bitbucket | Heroku | }}$
- <br/>
+   <br/>
  $\large{\color{#9FB7E7}\textsf{| Slack | Trello | }}$
- <br/>
+    <br/>
  $\large{\color{#rgb(254,255,254)}\textsf{ . . . }}$
- <br/>  
- <br/>
+   <br/>  
+   <br/>
  I GO FOR MORE ! 🚀📚
 </h5>
 
 <h4>
  🎓 I studied at 
  <a href="https://www.soyhenry.com" >Henry 
-  <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="25" alt="Henry"> 
+  <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="Henry"> 
  </a>
  <br/>
- 💼 I worked as a freelancer and in web design companies.
- <br/>
+ 💼 I worked as a freelancer and in web design companies, one of them was 
+ <a href="https://slashstudio.cl" >Slash 
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="40" alt="Henry"> 
+ </a>
+   <br/>
+   <br/>
  📖 I'm currently studying. 
  <br/>
+ These are some of the websites that I have created together or as a freelancer:
+   <br/>
+   <br/>
+ ✽ <a href="https://digital-art-frontt.vercel.app/" target="_blank" >DigitalArt *inactivo</a> 
+   <br/>
+ ✽ <a href="#" target="_blank" >VerdeNatural *inactivo</a>
+   <br/>
+ ✽ <a href="#" target="_blank" >Adetech *inactivo</a> 
+   <br/>
+ ✽ <a href="#" target="_blank" >Being Brothers Brokers *inactivo</a> 
+   <br/>
+ ✽ <a href="https://sandamaso.cl" target="_blank" >Sandamaso</a> 
+   <br/>
+ ✽ <a href="https://grange.educomlab.com" target="_blank" >Grange</a> 
+   <br/>
+ ✽ <a href="https://lintac.educomlab.com/" target="_blank" >Lintac</a> 
+   <br/>
+ ✽ <a href="https://desintoxicaciondigital.cl/" target="_blank" >Desintoxicaciondigital</a> 
+   <br/>
+ ✽ <a href="https://ible.cl/empresa" target="_blank" >IBLE</a> 
+   <br/>
+ ✽ <a href="https://educardigital.cl/" target="_blank" >Educardigital</a> 
+   <br/>
+ ✽ <a href="https://educom-web.vercel.app/" target="_blank" >Educom/</a> 
+   <br/>
+ ✽ <a href="https://plataforma.educomlab.com/auth/login" target="_blank" >Plataforma Educomlab</a> 
+   <br/>
+ ✽ <a href="https://libros-david.vercel.app" target="_blank" >Libros David</a> 
+   <br/>
+   <br/>
  🧠 My professional goal is to learn more and perfect what I have learned.
- <br/>
- <br/>
+   <br/>
+   <br/>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin</a>
 <h4>
    

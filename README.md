@@ -73,18 +73,21 @@
  I GO FOR MORE ! 🚀📚
 </h5>
 
-
-<br/>
 <h4>
-🎓 I studied at Henry.   <a href="https://www.soyhenry.com/" >Henry <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="30" alt="accessibility text"> </a>
-<br/>
-💼 I worked as a freelancer and in web design companies.
-<br/>
-📖 I'm currently studying. 
-<br/>
-🧠 My professional goal is to learn more and perfect what I have learned.</h4>
-<br/>
- <h4>📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin</a></h4>
+ 🎓 I studied at 
+ <a href="https://www.soyhenry.com" >Henry 
+  <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="25" alt="Henry"> 
+ </a>
+ <br/>
+ 💼 I worked as a freelancer and in web design companies.
+ <br/>
+ 📖 I'm currently studying. 
+ <br/>
+ 🧠 My professional goal is to learn more and perfect what I have learned.
+ <br/>
+ <br/>
+ 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin</a>
+<h4>
    
 <!--
 ```diff

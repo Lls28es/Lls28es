@@ -80,7 +80,7 @@
  <a href="https://www.soyhenry.com" >Henry 
   <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="35" alt="Henry"> 
  </a>
- <br/>
+   <br/>
  💼 I worked as a freelancer and in web design companies, one of them was 
  <a href="https://slashstudio.cl" >Slash 
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="40" alt="Henry"> 
@@ -88,34 +88,35 @@
    <br/>
    <br/>
  📖 I'm currently studying. 
- <br/>
- These are some of the websites that I have created together or as a freelancer:
    <br/>
    <br/>
+ 🌐 These are some of the websites that I have created together or as a freelancer:
+   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://digital-art-frontt.vercel.app/" target="_blank" >DigitalArt *inactivo</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="#" target="_blank" >VerdeNatural *inactivo</a>
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="#" target="_blank" >Adetech *inactivo</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="#" target="_blank" >Being Brothers Brokers *inactivo</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://sandamaso.cl" target="_blank" >Sandamaso</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://grange.educomlab.com" target="_blank" >Grange</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://lintac.educomlab.com/" target="_blank" >Lintac</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://desintoxicaciondigital.cl/" target="_blank" >Desintoxicaciondigital</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://ible.cl/empresa" target="_blank" >IBLE</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://educardigital.cl/" target="_blank" >Educardigital</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://educom-web.vercel.app/" target="_blank" >Educom/</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://plataforma.educomlab.com/auth/login" target="_blank" >Plataforma Educomlab</a> 
-   <br/>
+   <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://libros-david.vercel.app" target="_blank" >Libros David</a> 
    <br/>
    <br/>

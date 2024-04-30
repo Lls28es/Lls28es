@@ -113,7 +113,7 @@
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://educardigital.cl/" target="_blank" >Educardigital</a> 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
- ✽ <a href="https://educom-web.vercel.app/" target="_blank" >Educom/</a> 
+ ✽ <a href="https://educom-web.vercel.app/" target="_blank" >Educom</a> 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://plataforma.educomlab.com/auth/login" target="_blank" >Plataforma Educomlab</a> 
    <br/>&nbsp;&nbsp;&nbsp;&nbsp;

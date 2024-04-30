@@ -83,7 +83,7 @@
    <br/>
  💼 I worked as a freelancer and in web design companies, one of them was 
  <a href="https://slashstudio.cl" >Slash 
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="40" alt="Henry"> 
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="40" alt="SlashStudio"> 
  </a>
    <br/>
    <br/>
@@ -123,7 +123,7 @@
  🧠 My professional goal is to learn more and perfect what I have learned.
    <br/>
    <br/>
- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" > Linkedin</a>
+ 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" ><img src="https://github.com/Lls28es/Lls28es/blob/main/img/linkedin3.png" width="80" alt="linkedin1"> </a>
 <h4>
    
 <!--

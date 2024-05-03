@@ -37,8 +37,4 @@ next-env.d.ts
 
 yarn.lock
 
--funcadm.js
--superadm.js
--superadmCrearContenido.js
-
-anotacion.txt
+anotacion.js

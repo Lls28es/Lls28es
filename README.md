@@ -1,20 +1,18 @@
 ### Hi there 👋
 <h3>I'm Lucia Llorca. This is my profile:</h3>
 <div align="center" valign="middle">
-    
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide_title=false&card_width=600px&show_owner=true&custom_title=Lenguajes%20más%20usados%20en%20mis%20proyectos)
-  <!-- ![](https://github-readme-stats.vercel.app/api?username=Lls28es&theme=dark&hide_border=false&include_all_commits=Çtrue&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Lls28es&theme=dark&hide_border=false) -->
-  
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=30&hide_title=false&card_width=500px&custom_title=Languages%20​​most%20used%20​​in%20​​my%20​​projects%20​​(public))
 </div>
 
 <h2 align="center"> $\large{\color{#079E98}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>
   <br/>
-<p align="center">$\large{\color{#6FA85D}\textbf{CURRENT KNOWLEDGE}}$ $\huge{\color{#5ABC72}\textsf{✓ }}$ <p>
+<p align="center">$\large{\color{#c0c916}\textbf{CURRENT KNOWLEDGE}}$ $\huge{\color{#5ABC72}\textsf{✓ }}$
+  <br/>
+  <br/>
+  $\normalsize{\color{#D2B423}\textsf{• Web API's, Agile methodologies, SCRUM,}}$ <br/>
+</p>
 
-  <br/>
-<p align="center">$\normalsize{\color{#D2B423}\textsf{Web API's, Agile methodologies, SCRUM,}}$</p>
-  <br/>
 <div align="center" valign="middle">
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="58" alt="node">
   &nbsp;
@@ -134,6 +132,9 @@
    <br/>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" ><img src="https://github.com/Lls28es/Lls28es/blob/main/img/linkedin3.png" width="85" alt="linkedin1"> </a>
 <h4>
+
+   ![](https://github-readme-stats.vercel.app/api?username=Lls28es&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Lls28es&theme=highcontrast&hide_border=true&&include_all_commits=true) 
 
 <!--  https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db#font-styles  -->
 <!--  https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file  -->

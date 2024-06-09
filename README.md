@@ -10,58 +10,62 @@
   <br/>
 <p align="center">$\normalsize{\color{#D2B423}\textsf{Web API's, Agile methodologies, SCRUM,}}$</p>
   <br/>
-<p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="53" alt="node">
+<div align="center" valign="middle">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="58" alt="node">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/js1.png" height="55" alt="javascript">
    &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/typescript.png" height="55" alt="typescript">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/react1.png" height="55" alt="react">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/react1.png" height="57" alt="react">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/redux.png" height="53" alt="redux">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/angular1.png" height="50" alt="angular">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nextjs1.png" height="47" alt="nextjs">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nextjs1.png" height="52" alt="nextjs">
   &nbsp;
- </p>
- <p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/express3.png" height="65" alt="expressjs">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/firebase1.png" height="55" alt="firebase">
+ </div>
+<div align="center" valign="middle">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/firebase1.png" height="48" alt="firebase">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/express1.png" height="46" alt="expressjs">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nestjs1.png" height="50" alt="nestjs">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mysql2.png" height="66" alt="mySQL">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/postgreSQL1.png" height="65" alt="postgreSQL">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mongoDB2.png" height="75" alt="mongoDB">
-</p>
-<p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/html.png" height="60" alt="html">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/css.png" height="60" alt="css">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mongoDB2.png" height="74" alt="mongoDB">
+</div>
+<div align="center" valign="middle">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/html.png" height="62" alt="html">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/css.png" height="62" alt="css">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bootstrap.png" height="58" alt="bootstrap">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/sass.png" height="60" alt="sass">
-</p>
-<p align="center">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/sass.png" height="62" alt="sass">
+</div>
+<div align="center" valign="middle">
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/git3.png" height="73" alt="git">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bitbucket.png" height="55" alt="bitbucket">
-   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku1.png" height="55" alt="heroku">
-</p>
-<p align="center">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack4.png" height="35" alt="slack">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello4.png" height="40" alt="trello">
-</p>
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bitbucket.png" height="55" alt="bitbucket">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku1.png" height="55" alt="heroku">
+</div>
+<div align="center" valign="middle">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack4.png" height="38" alt="slack">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello4.png" height="42" alt="trello">
+</div>
 
 <h5>
    <br/>
  $\large{\color{#527BD5}\textsf{| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs | }}$
    <br/>
- $\large{\color{#5E85D9}\textsf{| ExpressJs | Firebase | PostgreSQL | MongoDB | }}$
+ $\large{\color{#5E85D9}\textsf{| Firebase| ExpressJs | NestJs | MySQL | PostgreSQL | MongoDB | }}$
    <br/>
  $\large{\color{#6E92DD}\textsf{| HTML | CSS | BootStrap | SASS | }}$
    <br/>

@@ -1,8 +1,13 @@
-
-<!-- https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db#font-styles -->
 ### Hi there 👋
 <h3>I'm Lucia Llorca. This is my profile:</h3>
-  <br/>
+<div align="center" valign="middle">
+    
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=Lls28es&theme=dark&hide_border=false&include_all_commits=Çtrue&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Lls28es&theme=dark&hide_border=false) -->
+  
+</div>
+
 <h2 align="center"> $\large{\color{#079E98}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>
   <br/>
 <p align="center">$\large{\color{#6FA85D}\textbf{CURRENT KNOWLEDGE}}$ $\huge{\color{#5ABC72}\textsf{✓ }}$ <p>
@@ -129,3 +134,7 @@
    <br/>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/lucia-llorca" ><img src="https://github.com/Lls28es/Lls28es/blob/main/img/linkedin3.png" width="85" alt="linkedin1"> </a>
 <h4>
+
+<!--  https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db#font-styles  -->
+<!--  https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file  -->
+

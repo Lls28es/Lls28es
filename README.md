@@ -2,7 +2,7 @@
 <h3>I'm Lucia Llorca. This is my profile:</h3>
 <div align="center" valign="middle">
     
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide_title=false&card_width=600px&show_owner=true&custom_title=Lenguajes%20más%20usados%20en%20mis%20proyectos)
   <!-- ![](https://github-readme-stats.vercel.app/api?username=Lls28es&theme=dark&hide_border=false&include_all_commits=Çtrue&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Lls28es&theme=dark&hide_border=false) -->
   

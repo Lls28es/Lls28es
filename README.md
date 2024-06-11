@@ -32,11 +32,11 @@
   &nbsp;
  </div>
 <div align="center" valign="middle">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/firebase1.png" height="48" alt="firebase">
-  &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/express1.png" height="46" alt="expressjs">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nestjs1.png" height="50" alt="nestjs">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/firebase1.png" height="48" alt="firebase">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mysql2.png" height="66" alt="mySQL">
   &nbsp;
@@ -45,36 +45,38 @@
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/mongoDB2.png" height="74" alt="mongoDB">
 </div>
 <div align="center" valign="middle">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/html.png" height="62" alt="html">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/docker1.png" height="75" alt="docker">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/css.png" height="62" alt="css">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/git3.png" height="85" alt="git">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bootstrap.png" height="58" alt="bootstrap">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bitbucket.png" height="60" alt="bitbucket">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/sass.png" height="62" alt="sass">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku1.png" height="58" alt="heroku">
 </div>
 <div align="center" valign="middle">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/git3.png" height="73" alt="git">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/html.png" height="58" alt="html">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bitbucket.png" height="55" alt="bitbucket">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/css.png" height="58" alt="css">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/heroku1.png" height="55" alt="heroku">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/bootstrap.png" height="50" alt="bootstrap">
+  &nbsp;
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/sass.png" height="55" alt="sass">
 </div>
 <div align="center" valign="middle">
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack4.png" height="38" alt="slack">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/slack4.png" height="45" alt="slack">
   &nbsp;
-  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello4.png" height="42" alt="trello">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/trello4.png" height="52" alt="trello">
 </div>
 
 <h5>
    <br/>
-  $\large{\color{#527BD5}\textsf{| NodeJs | JavaScript | TypeScript |  React | Redux | AgularJs | NextJs | }}$
+  $\large{\color{#527BD5}\textsf{| NodeJs | JavaScript | TypeScript |  React | Redux | Agular | NextJs | }}$
    <br/>
-  $\large{\color{#5E85D9}\textsf{| Firebase| ExpressJs | NestJs | MySQL | PostgreSQL | MongoDB | }}$
+  $\large{\color{#5E85D9}\textsf{| ExpressJs | NestJs | Firebase| MySQL | PostgreSQL | MongoDB | }}$
    <br/>
-  $\large{\color{#6E92DD}\textsf{| HTML | CSS | BootStrap | SASS | }}$
+  $\large{\color{#6E92DD}\textsf{| Docker | Git | Bitbucket | Heroku | }}$
    <br/>
-  $\large{\color{#819FE1}\textsf{| Git | Bitbucket | Heroku | }}$
+  $\large{\color{#819FE1}\textsf{| HTML | CSS | BootStrap | SASS | }}$
    <br/>
   $\large{\color{#9FB7E7}\textsf{| Slack | Trello | }}$
     <br/>

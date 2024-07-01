@@ -4,7 +4,7 @@
 
 <div align="center" valign="middle">
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=30&hide_title=false&card_width=500px&custom_title=Languages%20​​most%20used%20​​in%20​​my%20​​projects%20​​(public))
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5&hide_title=false&card_width=500px&custom_title=Languages%20​​most%20used%20​​in%20​​my%20​​projects%20​​(public))
 </div>
 
 <h2 align="center"> $\large{\color{#079E98}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>

@@ -1,21 +1,19 @@
-### Hi there 👋
+### 👋 Hi there! I'm Lucía Llorca
 
-<h3>I'm Lucia Llorca. This is my profile:</h3>
+<h2 align="center"> $\large{\color{#079E98}\textsf{🎯Full Stack Developer | 💡 Always learning and building.}}$ </h2>
 
 <div align="center" valign="middle">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lls28es&theme=highcontrast&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=50&hide_title=false&card_width=600px&custom_title=Languages%20​​most%20used%20​​in%20​​my%20​​projects%20​​(public))
 </div>
-
-<h2 align="center"> $\large{\color{#079E98}\textsf{FULL STACK DEVELOPER }}$ 💻</h2>
    <br/>
-<p align="center">$\large{\color{#c0c916}\textbf{CURRENT KNOWLEDGE}}$ $\huge{\color{#5ABC72}\textsf{✓ }}$
+<p align="left">$\huge{\color{#079E98}\textbf{💻 Current Knowledge}}$ </p>
    <br/>
-   <br/>
-  $\large{\color{#D2B423}\textsf{• Web API's, Agile methodologies, SCRUM,}}$ <br/>
-</p>
+<p align="center">$\large{\color{#c0c916}\textbf{Technologies and Tools}}$ </p>
 
 <div align="center" valign="middle">
+  <img src="https://github.com/Lls28es/Lls28es/blob/main/img/python.png" height="58" alt="python">
+  &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/nodejs3.png" height="58" alt="node">
   &nbsp;
   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/js1.png" height="55" alt="javascript">
@@ -70,7 +68,7 @@
 
 <h5>
    <br/>
-  $\large{\color{#527BD5}\textsf{| NodeJs | JavaScript | TypeScript |  React | Redux | Agular | NextJs | }}$
+  $\large{\color{#527BD5}\textsf{| Python | NodeJs | JavaScript | TypeScript |  React | Redux | Agular | NextJs | }}$
    <br/>
   $\large{\color{#5E85D9}\textsf{| ExpressJs | NestJs | Firebase| MySQL | PostgreSQL | MongoDB | }}$
    <br/>
@@ -82,29 +80,31 @@
     <br/>
   $\large{\color{#rgb(254,255,254)}\textsf{ . . . }}$
    <br/>  
-   <br/>
-  $\large{\color{#c0c916}\textsf{I GO FOR MORE ! 🚀📚}}$ 
 </h5>
-
+   <br/>
+<p align="">$\large{\color{#c0c916}\textbf{Practices and Methodologies:}}$</p>
+<p align="">
+  $\huge{\color{#5ABC72}\textsf{✓ }}$ $\large{\color{#D2B423}\textsf{Agile methodologies (SCRUM)}}$ <br/>
+  $\huge{\color{#5ABC72}\textsf{✓ }}$ $\large{\color{#D2B423}\textsf{RESTful APIs}}$ <br/> 
+  $\huge{\color{#5ABC72}\textsf{✓ }}$ $\large{\color{#D2B423}\textsf{Clean code and scalable architecture}}$ <br/>
+</p>
+   <br/>
+   
+<p align="left">$\huge{\color{#079E98}\textbf{🛠️ What I Build}}$ </p>
+   <br/>
+<p align="">
+  $\large{\color{#D2B423}\textsf{• Web platforms}}$ <br/>
+  $\large{\color{#D2B423}\textsf{• Mobile applications (with technologies like React Native or hybrid stacks)}}$ <br/>
+  $\large{\color{#D2B423}\textsf{• Web platforms}}$ <br/>
+  $\large{\color{#D2B423}\textsf{• Desktop tools using Python}}$ <br/>
+  $\large{\color{#D2B423}\textsf{• Internal tools and dashboards}}$ <br/>
+  $\large{\color{#D2B423}\textsf{• End-to-end product solutions as a freelancer}}$ <br/>
+</p>
+   <br/>
+   
+<p align="left">$\huge{\color{#079E98}\textbf{🌍 Some Projects I Worked On}}$ </p>
 <h4>
-  $\large{\color{#c0c916}\textsf{🎓 I studied at }}$  
-  <a href="https://www.soyhenry.com" >Henry 
-   <img src="https://user-images.githubusercontent.com/69209369/116446907-ce1e0280-a82d-11eb-80e9-202907b7eff6.png" width="40" alt="Henry"> 
-  </a>
-   <br/>
-  $\large{\color{#c0c916}\textsf{💼 I worked as a freelancer and in web design companies, one of them was }}$   
-  <a href="https://slashstudio.cl" >Slash 
-   <img src="https://github.com/Lls28es/Lls28es/blob/main/img/SlashLogo.png" width="50" alt="SlashStudio"> 
-  </a>
-   <br/>
-   <br/>
-  $\large{\color{#c0c916}\textsf{📖 I'm currently studying.}}$ 
-   <br/>
-   <br/>
-  $\large{\color{#c0c916}\textsf{ 🌐 These are some of the websites that I have created together or as a freelancer:}}$
-</h4>
-
-<h4>
+    &nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://digital-art-frontt.vercel.app/" target="_blank" >DigitalArt </a>
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="#" target="_blank" >VerdeNatural</a> *inactive
@@ -131,12 +131,15 @@
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;
  ✽ <a href="https://libros-david.vercel.app" target="_blank" >Libros David</a> 
   </h4>
+  <br/>
   
+<p align="left">$\huge{\color{#079E98}\textbf{🚀 Goals}}$ </p>
 <h4>
-  $\large{\color{#c0c916}\textsf{🧠 My professional goal is to learn more and perfect what I have learned.}}$
+  $\large{\color{#c0c916}\textsf{My professional goal is to keep learning, improve every day, and take on new challenges.}}$<h4>
    <br/>
-   <br/>
-  $\large{\color{#c0c916}\textsf{📫 How to reach me:}}$  
+    
+<p align="left">$\huge{\color{#079E98}\textbf{📫 How to Reach Me}}$ </p>
+<h4>
   <a href="https://www.linkedin.com/in/lucia-llorca" >
     <img src="https://github.com/Lls28es/Lls28es/blob/main/img/linkedin3.png" width="85" alt="linkedin1">
   </a>
